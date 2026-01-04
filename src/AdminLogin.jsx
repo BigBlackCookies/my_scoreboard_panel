@@ -64,7 +64,6 @@ function AdminLogin({ setIsAuthenticated, setCurrentPage }) {
       </div>
       
       <p style={{ marginTop: '20px', fontSize: '12px', color: '#666' }}>
-        Demo credentials: OSFIIR_ADMIN / 0SF11R_F0R3V3R_2025
       </p>
     </div>
   );
